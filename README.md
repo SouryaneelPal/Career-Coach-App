@@ -83,6 +83,3 @@ This application utilizes modern AI agent patterns and reactive user interface c
 
 Distributed under the MIT License.
 
-```
-
-```
