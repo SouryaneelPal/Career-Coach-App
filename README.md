@@ -1,11 +1,11 @@
-```markdown
+
 # 🚀 Career Coach and Resume Reviewer App
 
 ### 👥 Creators
 * **Souryaneel Pal**
 * **Shaurya Kakkar**
 
----
+
 
 ## ⚡ Quick Start: How to Run the App
 
